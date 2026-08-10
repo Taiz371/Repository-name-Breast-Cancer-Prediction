@@ -42,13 +42,12 @@ Breast-Cancer-Prediction/
 ├── README.md
 └── templates/
     └── index.html
-```
+
 
 ## Model
+The notebook uses Logistic Regression as the classification algorithm.
 
-The notebook uses **Logistic Regression** as the classification algorithm.
-
-The test split in the notebook reports an accuracy of approximately **97.37%**. This value depends on the data split and preprocessing used in the notebook.
+The test split in the notebook reports an accuracy of approximately 97.37%. This value depends on the data split and preprocessing used in the notebook.
 
 For a complete evaluation, accuracy should be considered together with metrics such as precision, recall, F1-score, and the confusion matrix.
 
@@ -68,13 +67,6 @@ Windows:
 ```bash
 python -m venv .venv
 .venv\Scripts\activate
-```
-
-macOS/Linux:
-
-```bash
-python3 -m venv .venv
-source .venv/bin/activate
 ```
 
 ### 3. Install dependencies
@@ -97,7 +89,7 @@ Then open:
 Breast Cancer.ipynb
 ```
 
-You can also open the notebook directly in VS Code if the Python and Jupyter extensions are installed.
+
 
 ## Run the Flask Application
 
@@ -107,7 +99,7 @@ After installing the dependencies:
 python app.py
 ```
 
-Open the local address shown by Flask in your browser.
+
 
 ## GitHub Workflow
 
@@ -129,8 +121,6 @@ git push
 - Add model explainability.
 - Add a reproducible training pipeline.
 
-## Author
+## Author 
 
-**Your Name**
-
-Replace `Taiz Uddin ` with your name before publishing the repository.
+TAIZ UDDIN 
