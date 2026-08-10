@@ -57,7 +57,7 @@ For a complete evaluation, accuracy should be considered together with metrics s
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Breast-Cancer-Prediction.git
+git clone https://github.com/Taiz371/Breast-Cancer-Prediction.git
 cd Breast-Cancer-Prediction
 ```
 
@@ -133,4 +133,4 @@ git push
 
 **Your Name**
 
-Replace `Your Name` with your name before publishing the repository.
+Replace `Taiz Uddin ` with your name before publishing the repository.
